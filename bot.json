@@ -1,4 +1,4 @@
-{
+[{
   "default_cmd": "coffee info.coffee",
   "default_path": "./node_modules/info_bot/",
   "default_settings": [
@@ -49,4 +49,4 @@
   ],
   "short_desc": "A more programmable information script",
   "repo_link": "https://github.com/green-bot/info_bot.git"
-}
+}]
