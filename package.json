@@ -1,6 +1,6 @@
 {
   "name": "info_bot",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "A bot that collects information from a user, built for green-bot.",
   "main": "index.coffee",
   "scripts": {
