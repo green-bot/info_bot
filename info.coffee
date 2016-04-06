@@ -50,6 +50,7 @@ handleChoice = ->
     answer
   .then (answer) ->
     if answer is 'quit'
+      prompt.stop()
       return
     else
       handleChoice()
