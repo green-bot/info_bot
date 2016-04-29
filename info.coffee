@@ -1,5 +1,8 @@
 #!/usr/bin/env coffee
-
+## Introduction
+# This is an introduction to the bot
+# hey
+#
 prompt = require 'prompt'
 Promise = require 'bluebird'
 Promise.promisifyAll prompt
